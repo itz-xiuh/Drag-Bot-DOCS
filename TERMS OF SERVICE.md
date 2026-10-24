@@ -74,4 +74,4 @@ For questions about these Terms, copyright concerns, or other legal notices, con
 
 By using Drag Bot, you acknowledge that you have read and understood these Terms of Service.
 
-© Drag Bot. All rights reserved, where applicable.
+© 2026 Drag Bot. All rights reserved, where applicable.
