@@ -15,7 +15,7 @@ Any unauthorized reproduction, distribution, republication, or use of protected 
 - Report unauthorized redistribution, impersonation, or misrepresentation of ownership.
 - Pursue other remedies available under applicable law.
 
-Reporting & Compliance
+# Reporting & Compliance
 
 Suspected infringement may be reported through Drag Bot’s official support channel. Reports should include relevant URLs, supporting evidence, and sufficient information to identify the protected work.
 
